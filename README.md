@@ -1,10 +1,10 @@
-# Swapnil Gaikwad
+# Mohini Pawar
 
 
 Q: Using robot framework selenium library-
 
 test1-
-1. login to https://github.com | user : ppqe / swapnil@az123
+1. login to https://github.com | user : ppqe / mohini@az123
 2. create a new public repo named - appzen
 3. sign out
 
