@@ -1,7 +1,4 @@
-# Mohini Pawar
-
-
-Q: Using robot framework selenium library-
+# AppZen # Q: Using robot framework selenium library do following tests-
 
 test1-
 1. login to https://github.com | user : ppqe / mohini@az123
